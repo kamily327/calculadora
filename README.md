@@ -40,4 +40,4 @@ Este projeto foi essencial para fixar conceitos fundamentais de desenvolvimento 
 
 1. Clone o repositório:
    ```bash
-   git clone 
+   git clone https://github.com/kamily327/calculadora.git
